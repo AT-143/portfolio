@@ -97,7 +97,7 @@ const Hero: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-blue-600 dark:bg-blue-500 bg-opacity-10 dark:bg-opacity-20 flex items-center justify-center p-2 animate-float">
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-blue-600 dark:border-blue-400 shadow-xl">
                   <img 
-                    src="../src/images/Anjesh.jpg" 
+                    src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22aaa.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-03-02T06%3A07%3A31.620Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F49fccc95f72540ac%2Faaa.jpg%3FExpires%3D1835590052%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DmlDa6vXlpOZwVjEfiFjFh3hkpqESSzvbo8fXe0GRL2jCZPMguq8x90aaMucDNy1Uthj8DVF7dPPZ29zT3YU-36M8tBuaqz9ivmLeUJHvIkgTEWMlhKfvO8GMaBj9JvhvNbj7rRqAjYGTOfV0-b~FWzD9nUnORaT-nr-He7TQF~u-DS4a2xh3hFdgu7pTKSgFOD5zWNNEvCKyIpZ-prsXl4~nN3wNL0KbtzI3IYaRoa2Kr225XRm2ZPNJBVsSH4GhQ5zMLw7zcoghgmmU18oIy7iEhX-n-w9D5T~ojNtsEjNotDN4-~thwigXzme3-7Tiw6jQh5rqzyabCeDrCXoW~g__%22%7D" 
                     alt="Venkata Anjesh Tummala" 
                     className="w-full h-full object-cover"
                   />
