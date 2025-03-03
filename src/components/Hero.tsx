@@ -97,7 +97,7 @@ const Hero: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-blue-600 dark:bg-blue-500 bg-opacity-10 dark:bg-opacity-20 flex items-center justify-center p-2 animate-float">
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-blue-600 dark:border-blue-400 shadow-xl">
                   <img 
-                    src="/src/images/Anjesh.jpg" 
+                    src="../src/images/Anjesh.jpg" 
                     alt="Venkata Anjesh Tummala" 
                     className="w-full h-full object-cover"
                   />
