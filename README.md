@@ -24,7 +24,7 @@ Feel free to fork this repository and submit pull requests to improve the projec
 ## 📬 Contact
 If you have any questions or feedback, reach out to me at:
 - Email: anjeshvenkata@gmail.com
-- LinkedIn: [Venkata Anjesh Tummala](https://www.linkedin.com/in/venkata-anjesh-tummala-0a2333237/))
+- LinkedIn: [Venkata Anjesh Tummala](https://www.linkedin.com/in/venkata-anjesh-tummala-0a2333237/)
 
 ---
 ⭐ Don't forget to **star** this repo if you like it!
